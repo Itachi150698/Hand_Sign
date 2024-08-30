@@ -101,12 +101,7 @@ function Videos() {
                 Browse through the ISL videos created by others and shared with
                 the entire community!
               </div>
-              <Link
-  to="/sign-kit/feedback"
-  target="_blank"
-  rel="noreferrer"
-  className="btn btn-info"
->
+<Link to="/sign-kit/feedback" className="btn btn-info">
   Open Feedback Form
 </Link>
 
